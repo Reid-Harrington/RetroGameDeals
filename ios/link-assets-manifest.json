@@ -1,0 +1,29 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/emotion-engine-font/EmotionEngineBold-YGnL.ttf",
+      "sha1": "bb2b069cb8cba8216ee139632f4005bdedf9de4a"
+    },
+    {
+      "path": "assets/fonts/emotion-engine-font/EmotionEngineBoldItalic-raEK.ttf",
+      "sha1": "000127f895406f2dcb49ef300057fea0d4d73236"
+    },
+    {
+      "path": "assets/fonts/emotion-engine-font/EmotionEngineItalic-Mr0v.ttf",
+      "sha1": "2d92c09abdc3e6a26a80c523373a5d626626add3"
+    },
+    {
+      "path": "assets/fonts/emotion-engine-font/info.txt",
+      "sha1": "b713abbb51c2b6747e7b82ab3c517ea341ab6cd6"
+    },
+    {
+      "path": "assets/fonts/emotion-engine-font/misc/Font License.txt",
+      "sha1": "3f9c599c292e729d202d714f98758a04b898917a"
+    },
+    {
+      "path": "assets/fonts/EmotionEngine.ttf",
+      "sha1": "c725ce0b1505b09c68b473e52fe572236b829acd"
+    }
+  ]
+}
