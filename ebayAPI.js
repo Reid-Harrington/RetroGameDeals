@@ -2,7 +2,7 @@ import axios from "axios";
 
   const searchListings = async (query) => {
     try {
-      const appID = 'ReidHarr-RetroGam-PRD-121a09b8a-e0e89dee'; // Replace 'YourAppID' with your actual eBay API App ID
+      const appID = 'YourAppID'; // Replace 'YourAppID' with your actual eBay API App ID
 
       const response = await axios.get(
         `https://svcs.ebay.com/services/search/FindingService/v1`,
